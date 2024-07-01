@@ -1,0 +1,17 @@
+{
+  "name": "infinite-cold-emails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "moment-timezone": "^0.5.45",
+    "nodemailer": "^6.9.14",
+    "sqlite3": "^5.1.7"
+  }
+}
